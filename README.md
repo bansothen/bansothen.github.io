@@ -3,6 +3,6 @@
     <title>BAN Sothen's Official Github Page</title>
   </head>
   <body>
-    <h1>Welcome</h1>
+    <h2>Welcome</h2><center><h1>BAN Sothen's Official Github Page</h1></center>
   </body>
 </html>
